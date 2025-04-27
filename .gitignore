@@ -1,0 +1,9 @@
+echo "*.jpg" >> .gitignore
+echo "*.pdf" >> .gitignore
+
+*.jpg
+*.jpeg
+*.png
+*.pdf
+output/
+images/
