@@ -7,3 +7,5 @@ echo "*.pdf" >> .gitignore
 *.pdf
 output/
 images/
+*.jpg
+*.pdf
